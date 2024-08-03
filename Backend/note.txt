@@ -1,0 +1,11 @@
+express- use for url (easier than http )
+mongoose- help in connecting database
+jsonwebtoken- create authentication system 
+bcrypt- incrept the user data in database 
+cors- frontend connect with backend
+dotenv- envionment variable in projects
+body-parser-parse the data coming through the user
+multer- manange the image store system
+strip- add payment getway on the webpage
+validator- we can check password and email id is valid or not
+nodemon- auto save server
